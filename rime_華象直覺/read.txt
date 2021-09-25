@@ -1,2 +1,3 @@
 請使用rime為輸入平台並把檔案載入
+rime下載網址：https://rime.im/download/
 詳見read.md
